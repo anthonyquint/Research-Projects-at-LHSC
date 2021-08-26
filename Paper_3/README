@@ -22,7 +22,9 @@ dependent variables (bleeding outcome; Major, Minor, or None) was performed.
 - To analyze the continous data via. t-tests, anova tests, and post-hoc tukey tests, online calculators were used. 
 
 Secondly, since regression models were implemented in the next steps (will be explain further, below this paragraph), analyzing any potential multi-collinearity
-concerns between the independent variables was vital.
+concerns between the independent variables was vital. I investigated relationships between the categorical variables with the script:
+"Bleeding_study_Categorical_MulticollinearityCheck_R.ipynb", and I investigated relationships between the continous variables with the script: 
+
 
 
 For the multivariate analysis of the data, I decided to employ a logistic regression model. This was a suitable fit since the outcome data (dependent variable) 
