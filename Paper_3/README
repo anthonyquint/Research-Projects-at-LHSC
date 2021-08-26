@@ -1,1 +1,23 @@
-hihi
+Welcome! 
+
+This folder contains the current work for Paper 3: 
+- Risk of Major Bleeding with Ibrutinib in Patients with Thrombocytopenia – a Retrospective Single-Center Canadian Study.
+
+In summary, this paper seeks to assess the possible risk factors of major bleeding in Chronic lymphocytic leukemia (CLL) patients, who are taking the drug: 
+ibruntinib. This is relevant because ibruntinib itself may induce a higher risk of bleeeding. The complete motivation for this study can be read in the file: 
+"Ibrutinib and bleeding REB protocol, Nov 15,2020 clean version.docx". 
+
+A brief outline of the statistical analysis that was planned to be performed can be found in the file: "Methods_Ibrutinib_and_bleeding_AQ_June_22  - TD & MD Edits".
+During the process of analyzing the data, more ideas and considerations were implemented in the data analysis than is described in the methods file. The overall 
+analysis that was conducted is reflected in the results file: "Results_Ibrutinib_and_bleeding_AQ_Aug_2". 
+
+
+
+
+In this study, the dependent (outcome) variabale is 
+- bleeding outcome (Major, Minor, or None), 
+and the independent variables are: 
+- Platelet count, Hemoglobin concentration, molecular cytogenetics, prior lines of therapy, anticoagulation, antiplatelets, and 
+Past medical history (PMHx) bleeding risk. 
+
+
