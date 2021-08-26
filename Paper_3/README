@@ -18,7 +18,7 @@ Firstly, a univariate analysis of the effect of the independent variables (can b
 dependent variables (bleeding outcome; Major, Minor, or None) was performed. 
 - To analyze the categorical data via. contigency tables, the frequencies of the relevant categories needed to be computed. This was either achieved with the 
   sort and filter functionality in excel, or with the brief python script: "Bleeding_Study_FreqOfEvents_Python.ipynb". Then, using these frequencies the 
-  contigency tables were computed with the R script: "Bleeding_study_Contigency_Tables_R". 
+  contigency tables were computed with the R script: "Bleeding_study_Contigency_Tables_R.ipynb". 
 
 
 In this study, the dependent (outcome) variabale is 
