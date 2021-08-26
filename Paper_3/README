@@ -14,7 +14,10 @@ A brief outline of the statistical analysis that was planned to be performed can
 file. The overall analysis that was conducted, and the results, is reflected in the results file: "Results_Ibrutinib_and_bleeding_AQ_Aug_2". The results file 
 is the most complete summary of the work that was completed. 
 
-
+Firstly, a univariate analysis of the effect of the independent variables (can be read about further in the 'introduction' section of the results docx) on the 
+dependent variables (bleeding outcome; Major, Minor, or None) was performed. To analyze the categorical data via. contigency tables, the frequencies of 
+the relevant categories needed to be computed. This was either achieved with the sort and filter functionality in excel, or with the brief python script: 
+"Bleeding_Study_FreqOfEvents_Python.ipynb". 
 
 
 In this study, the dependent (outcome) variabale is 
@@ -22,5 +25,7 @@ In this study, the dependent (outcome) variabale is
 and the independent variables are: 
 - Platelet count, Hemoglobin concentration, molecular cytogenetics, prior lines of therapy, anticoagulation, antiplatelets, and 
 Past medical history (PMHx) bleeding risk. 
+
+
 
 
