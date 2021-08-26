@@ -19,13 +19,19 @@ dependent variables (bleeding outcome; Major, Minor, or None) was performed.
 - To analyze the categorical data via. contigency tables, the frequencies of the relevant categories needed to be computed. This was either achieved with the 
   sort and filter functionality in excel, or with the brief python script: "Bleeding_Study_FreqOfEvents_Python.ipynb". Then, using these frequencies the 
   contigency tables were computed with the R script: "Bleeding_study_Contigency_Tables_R.ipynb". 
+- To analyze the continous data via. t-tests, anova tests, and post-hoc tukey tests, online calculators were used. 
+
+Secondly, since regression models were implemented in the next steps (will be explain further, below this paragraph), analyzing any potential multi-collinearity
+concerns between the independent variables was vital.
 
 
-In this study, the dependent (outcome) variabale is 
-- bleeding outcome (Major, Minor, or None), 
-and the independent variables are: 
-- Platelet count, Hemoglobin concentration, molecular cytogenetics, prior lines of therapy, anticoagulation, antiplatelets, and 
-Past medical history (PMHx) bleeding risk. 
+For the multivariate analysis of the data, I decided to employ a logistic regression model. This was a suitable fit since the outcome data (dependent variable) 
+is categorical, and more importantly because the logisitc regression model provides interpetable statistics, in that it's coefficients for the independent 
+variables represent the log odds. Since a model with interpretable statistics was more important for this study than a model with better predictive power, the 
+other non-parametric models (such as RFC, CART etc.) weren't investigated heavily. 
+
+
+
 
 
 
