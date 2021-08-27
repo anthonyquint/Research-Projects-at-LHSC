@@ -38,7 +38,8 @@ employed with the script: "Bleeding_study_LogReg3_July4Data_Python.ipynb".
 
 Nextly, three different survival analysis was performed on the data (i.e. 3 different event of interests). A python script was firstly employed on the raw 
 dataset to clean it up: "Bleeding_study_CleanDataForSurvAnal_Python.ipynb". Then, the cleaned datasets were used to produce kaplan meier curves with the script: 
-"Bleeding_study_KaplerMeier_R.ipynb". 
+"Bleeding_study_KaplerMeier_R.ipynb". A univariate and multivariate cox regression analysis was also applied with the script: "Bleeding_study_MultiCox_R.ipynb". 
+
 
 
 
