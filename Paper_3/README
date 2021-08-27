@@ -5,6 +5,17 @@ Welcome!
 This folder contains the current work for Paper 3: 
 - Risk of Major Bleeding with Ibrutinib in Patients with Thrombocytopenia – a Retrospective Single-Center Canadian Study.
 
+The skills and techniques demonstrated in this paper are: 
+- Proficiency with OOP in Python and R
+- Adept with using Jupyter Notebooks
+- Advanced excel knowledge
+- Strong awareness of the statistics employed (contigency tables, t-tests, anova tests, post-hoc tukey tests etc.)
+- Understanding and capable of dealing with multicollinearity concerns in regression models 
+- Informed implementation of classifiers: Logistic regression and Random Forest Classifiers (RFC), and how to deal with unbalanced datasets 
+- Theoretical and practical knowledge of surivial analysis: Kapler meier curves, univariate and multivariate cox regression analysis
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 Note: the excel and csv files containing the data for the study are not included due to confidentiality reasons. 
 
 In summary, this paper seeks to assess the possible risk factors of major bleeding in Chronic lymphocytic leukemia (CLL) patients, who are taking the drug: 
