@@ -12,7 +12,7 @@ ibruntinib. This is relevant because ibruntinib itself may induce a higher risk 
 A brief outline of the statistical analysis that was planned to be performed can be found in the methods file: "Methods_Ibrutinib_and_bleeding_AQ_June_22  - TD 
 & MD Edits". During the process of analyzing the data, more ideas and considerations were implemented in the data analysis than is described in the methods 
 file. The overall analysis that was conducted, and the results, is reflected in the results file: "Results_Ibrutinib_and_bleeding_AQ_Aug_2". The results file 
-is the most complete summary of the work that was completed. 
+is the most complete summary of the work that was completed, and can be used as a guiding tool to explain why the code was written as it was. 
 
 Firstly, a univariate analysis of the effect of the independent variables (can be read about further in the 'introduction' section of the results docx) on the 
 dependent variables (bleeding outcome; Major, Minor, or None) was performed. 
