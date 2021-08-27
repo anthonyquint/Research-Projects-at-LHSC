@@ -26,12 +26,11 @@ concerns between the independent variables was vital. I investigated relationshi
 "Bleeding_study_Categorical_MulticollinearityCheck_R.ipynb", and I investigated relationships between the continous variables with the script: 
 "Bleeding_study_Continous_MulticollinearityCheck_python.ipynb". 
 
-
-
 For the multivariate analysis of the data, I decided to employ a logistic regression model. This was a suitable fit since the outcome data (dependent variable) 
 is categorical, and more importantly because the logisitc regression model provides interpetable statistics, in that it's coefficients for the independent 
 variables represent the log odds. Since a model with interpretable statistics was more important for this study than a model with better predictive power, the 
-other non-parametric models (such as RFC, CART etc.) weren't investigated heavily. 
+other non-parametric models (such as RFC, CART etc.) weren't investigated heavily. Firstly, a binary logistic regression model was employed, with the script:
+"Bleeding_study_LogReg2_July4Data_Python.ipynb". 
 
 
 
