@@ -32,7 +32,7 @@ variables represent the log odds. Since a model with interpretable statistics wa
 other non-parametric models (such as RFC, CART etc.) weren't investigated heavily. 
 
 A binary logistic regression model was employed, with the script: "Bleeding_study_LogReg2_July4Data_Python.ipynb". Then, a ternary logistic regression model was
-employed with the script: 
+employed with the script: "Bleeding_study_LogReg3_July4Data_Python.ipynb". 
 
 
 
