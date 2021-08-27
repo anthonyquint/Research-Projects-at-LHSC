@@ -21,7 +21,7 @@ dependent variables (bleeding outcome; Major, Minor, or None) was performed.
   contigency tables were computed with the R script: "Bleeding_study_Contigency_Tables_R.ipynb". 
 - To analyze the continous data via. t-tests, anova tests, and post-hoc tukey tests, online calculators were used. 
 
-Secondly, since regression models were implemented in the next steps (will be explain further, below this paragraph), analyzing any potential multi-collinearity
+Secondly, since regression models were implemented in the next steps (will be explained further, below this paragraph), analyzing any potential multi-collinearity
 concerns between the independent variables was vital. I investigated relationships between the categorical variables with the script:
 "Bleeding_study_Categorical_MulticollinearityCheck_R.ipynb", and I investigated relationships between the continous variables with the script: 
 "Bleeding_study_Continous_MulticollinearityCheck_python.ipynb". 
