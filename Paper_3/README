@@ -40,10 +40,8 @@ Nextly, three different survival analysis was performed on the data (i.e. 3 diff
 dataset to clean it up: "Bleeding_study_CleanDataForSurvAnal_Python.ipynb". Then, the cleaned datasets were used to produce kaplan meier curves with the script: 
 "Bleeding_study_KaplerMeier_R.ipynb". A univariate and multivariate cox regression analysis was also applied with the script: "Bleeding_study_MultiCox_R.ipynb". 
 
-
-
-
-
-
-
+EXTRA (not included in results file):
+As mentioned previously, a logistic regression model was chosen over other non-parametric models because it has more interpretable statistics, despite potentially
+having worse prediciative capabilites. Nonetheless, I experimented with implementing a RFC (random forest classifier) model to the data. The script for this is: 
+"Bleeding_study_RandFor_BinOutcome_July4Data_Python.ipynb". 
 
