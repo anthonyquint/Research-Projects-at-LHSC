@@ -17,4 +17,7 @@ Note: the excel and csv files containing data for the study are not included due
 The goal of this study is to assess how various maintenance strategies, post-autologous stem cell transplantation, in high and low risk patients, function to 
 improve survival. The complete motivation for this study can be read in the file: "Protocol- Final clean version March17,2021.docx". 
 
-
+A brief outline of the statistical analysis that was planned to be performed can be found in the methods file: "Methods_MMproject_May21st_AQ". 
+During the process of analyzing the data, more ideas and considerations were implemented in the data analysis than is described in the methods 
+file. The overall analysis that was conducted, and the results, is reflected in the results file: "UpdatedResults_MMproject_July27". The results file 
+is the most complete summary of the work that was completed, and can be used as a guiding tool to explain why the code was written as it was. 
