@@ -31,3 +31,11 @@ Secondly, a survival analysis was performed on the data. A python script was fir
 dataset to clean it up: "ASCT_study_DataPreparation_python.ipynb". Then, the cleaned datasets were used to produce kaplan meier curves with the script: 
 "ASCT_study_KaplerMeier_R.ipynb". A univariate and multivariate cox regression analysis was also applied with the script: "ASCT_study_MultiVarCox_R.ipynb". 
 
+Lastly, numerous contigency tables were computed in R (fisher exact tests) to evaluate relationships between the response data vs. maintenance strategy, and
+response data vs. transplant strategy. This was completed with the script: "ASCT_study_ContigTables_R.ipynb". 
+
+
+
+
+
+
