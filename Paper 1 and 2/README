@@ -24,7 +24,7 @@ is the most complete summary of the work that was completed, and can be used as 
 
 Firstly, since regression models were implemented in the next steps (will be explained further, below this paragraph), analyzing any potential multi-collinearity
 concerns between the independent variables was vital. I investigated relationships between the categorical variables with the script:
-"", and I investigated relationships between the continous variables with the script: 
+"ASCT_study_MulticolinCheckCatVar_r.ipynb", and I investigated relationships between the continous variables with the script: 
 "". 
 
 Secondly, a survival analysis was performed on the data. A python script was firstly employed on the raw 
