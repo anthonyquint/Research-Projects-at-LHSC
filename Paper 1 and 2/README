@@ -6,7 +6,7 @@ This folder contains the current work for Papers 1 and 2. They are grouped toget
 - Outcomes of Single Versus Tandem Hematopoietic Stem Cell Autologous Transplant in High-Risk Myeloma Patients: A Single-Center Experience.
 - Outcomes of Maintenance Treatment Post Autologous Stem Cell Transplantation in Newly Diagnosed Multiple Myeloma Patients: A Canadian Single Center Experience.
 
-THe skills and techniques demonstrated in this paper are: 
+THe skills and techniques demonstrated in these papers are: 
 
 
 
@@ -14,18 +14,15 @@ THe skills and techniques demonstrated in this paper are:
 -----------------------------------------------------------------------------------------------------------------------------------------------|
 Note: the excel and csv files containing data for the study are not included due to confidentiality reasons. 
 
-The goal of this study is to assess how various maintenance strategies, post-autologous stem cell transplantation, in high and low risk patients, function to 
-improve survival. The complete motivation for this study can be read in the file: "Protocol- Final clean version March17,2021.docx". 
+The goal of these papers is to assess how various maintenance strategies that are given post-autologous stem cell transplantation, function to 
+improve survival. The complete motivation for these papers can be read in the file: "Protocol- Final clean version March17,2021.docx". 
 
 A brief outline of the statistical analysis that was planned to be performed can be found in the methods file: "Methods_MMproject_May21st_AQ". 
 During the process of analyzing the data, more ideas and considerations were implemented in the data analysis than is described in the methods 
 file. The overall analysis that was conducted, and the results, is reflected in the results file: "UpdatedResults_MMproject_July27". The results file 
 is the most complete summary of the work that was completed, and can be used as a guiding tool to explain why the code was written as it was. 
 
-Firstly, 
+Firstly, a survival analysis was performed on the data. A python script was firstly employed on the raw 
+dataset to clean it up: "ASCT_study_DataPreparation_python.ipynb". Then, the cleaned datasets were used to produce kaplan meier curves with the script: 
+"ASCT_study_KaplerMeier_R.ipynb". A univariate and multivariate cox regression analysis was also applied with the script: "ASCT_study_MultiVarCox_R.ipynb". 
 
-EDIT:
-three different survival analysis was performed on the data (i.e. 3 different event of interests). A python script was firstly employed on the raw 
-dataset to clean it up: "Bleeding_study_CleanDataForSurvAnal_Python.ipynb". Then, the cleaned datasets were used to produce kaplan meier curves with the script: 
-"Bleeding_study_KaplerMeier_R.ipynb". A univariate and multivariate cox regression analysis was also applied with the script: "Bleeding_study_MultiCox_R.ipynb". 
-^^^^ Not done 
