@@ -18,4 +18,5 @@ at the hospital where I am responsible for completing the data analysis and stat
 - Status: data collection nearing completion 
 
 Please click on the respective paper folder to learn more about the project, and about the skills and techniques that I implemented. 
+** I recomend going over paper 3, since it is the most substantial and best documented analysis I performed **
 
