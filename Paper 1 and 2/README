@@ -22,7 +22,12 @@ During the process of analyzing the data, more ideas and considerations were imp
 file. The overall analysis that was conducted, and the results, is reflected in the results file: "UpdatedResults_MMproject_July27". The results file 
 is the most complete summary of the work that was completed, and can be used as a guiding tool to explain why the code was written as it was. 
 
-Firstly, a survival analysis was performed on the data. A python script was firstly employed on the raw 
+Firstly, since regression models were implemented in the next steps (will be explained further, below this paragraph), analyzing any potential multi-collinearity
+concerns between the independent variables was vital. I investigated relationships between the categorical variables with the script:
+"", and I investigated relationships between the continous variables with the script: 
+"". 
+
+Secondly, a survival analysis was performed on the data. A python script was firstly employed on the raw 
 dataset to clean it up: "ASCT_study_DataPreparation_python.ipynb". Then, the cleaned datasets were used to produce kaplan meier curves with the script: 
 "ASCT_study_KaplerMeier_R.ipynb". A univariate and multivariate cox regression analysis was also applied with the script: "ASCT_study_MultiVarCox_R.ipynb". 
 
