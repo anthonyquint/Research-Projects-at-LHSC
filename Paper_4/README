@@ -24,3 +24,8 @@ Note: the excel and csv files containing the data for the study are not included
 In summary, this paper seeks to assess the potential for the drug Rivaroxaban to improve thromboembolism outcomes in patients with multiple myeloma,  
 on Lenalidomide-based therapy (type of chemotherapy).The complete motivation for this study can be read in the file: 
 "RithMM new open label protocol -2018 final_V.doc". 
+
+As is described in the document: "RithMM new open label protocol -2018 final_V.doc", this project is in it's preliminary stages, and is proving it's feasibility
+to be a valuable and plausible clinical trial. Therefore, the analysis completed so far is on a limited dataset, and primariliy offers some simple descriptive 
+statistics on pertinent physiological values. The file: "Results_RithMM_Study_Aug2" summarizes the raw data, and implements the results into two tables (last
+pages of the docs). 
