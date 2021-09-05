@@ -14,7 +14,7 @@ at the hospital where I am responsible for completing the data analysis and stat
 4. Rivaroxaban for Improvement in Thromboembolism Outcomes in Patients with Multiple Myeloma on Lenalidomide-Based Therapy: The Rithmm Feasibility Pilot Trial.
 - Status: submitted abstract to American Society of Hematology (ASH) 
 
-6. Serologic Response to Vaccine for COVID-19 in Patients with Hematologic Malignancy
+5. Serologic Response to Vaccine for COVID-19 in Patients with Hematologic Malignancy
 - Status: data collection nearing completion 
 
 Please click on the respective paper folder to learn more about the project, and about the skills and techniques that I implemented. 
