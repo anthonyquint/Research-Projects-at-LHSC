@@ -31,5 +31,6 @@ they are taking (aspiring vs. Rivaroxaban). The within measures variable will be
 I assessed how the treatment (drug) type and time influence certain scores, such as LDH concentration, etc in the R jupyter notebook:
 "TwoWay_Repeated_Measures_ANOVA_R.ipynb". From the scores I did evaluate, I found no significnat results. However, this result was expected given the limited 
 dataset. Furthermore, the dataset was also incomplete, in that many patients had missing data point, which further reduced the sample size. These factors 
-contributed the decision to leave the ANOVA analysis out of the final results docs and out of the submitted abstract. 
+contributed the decision to leave the ANOVA analysis out of the final results docs and out of the submitted abstract. This analysis will be revisited once 
+the clinical trial is approved, and a larger sample size of patients is attained. 
 
