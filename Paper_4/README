@@ -30,4 +30,11 @@ to be a valuable and plausible clinical trial. Therefore, the analysis completed
 statistics on pertinent physiological values. The file: "Results_RithMM_Study_Aug2" summarizes the raw data, and implements the results into two tables (last
 pages of the docs). 
 
-Since
+Since the primary structure of the clinical trail is to evaluate how treatment type (aspiring vs. Rivaroxaban) affects a patient over the course of time (3 
+follow-up appoitments), a two-way repeated measures ANOVA (mixed), is a suitable form of statistical analysis. The between measures variables will be the drug 
+they are taking (aspiring vs. Rivaroxaban). The within measures variable will be the 3 times the patient is checked during follow-up appointments.
+I assessed how the treatment (drug) type and time influence certain scores, such as LDH concentration, etc in the R jupyter notebook:
+"TwoWay_Repeated_Measures_ANOVA_R.ipynb". From the scores I did evaluate, I found no significnat results. However, this result was expected given the limited 
+dataset. Furthermore, the dataset was also incomplete, in that many patients had missing data point, which further reduced the sample size. These factors 
+contributed the decision to leave the ANOVA analysis out of the final results docs and out of the submitted abstract. 
+
