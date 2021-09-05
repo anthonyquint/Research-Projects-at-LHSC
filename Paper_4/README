@@ -6,16 +6,11 @@ This folder contains the current work for Paper 4:
 - Rivaroxaban for Improvement in Thromboembolism Outcomes in Patients with Multiple Myeloma on Lenalidomide-Based Therapy: The Rithmm Feasibility Pilot Trial.
 
 The skills and techniques demonstrated in this paper are: 
-
-**FIX BELOW
-- Proficiency with OOP in Python and R
+- Proficiency with OOP in R
 - Adept with using Jupyter Notebooks
 - Advanced excel knowledge
 - Strong awareness of the statistics employed (contigency tables, t-tests, anova tests, post-hoc tukey tests etc.)
-- Understanding and capable of dealing with multicollinearity concerns in regression models 
-- Informed implementation of classifiers: Logistic regression and Random Forest Classifiers (RFC), and how to deal with unbalanced datasets 
-- Theoretical and practical knowledge of surivial analysis: Kapler meier curves, univariate and multivariate cox regression analysis
-**FIX ABOVE
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------|
